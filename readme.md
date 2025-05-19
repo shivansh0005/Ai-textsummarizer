@@ -9,6 +9,5 @@ Use OpenAI or Hugging Face API to summarize
 
 Save history to MongoDB
 
-Optional: Allow download/share
 
-🔧 Bonus: Add authentication to track user's summary history. I am thinking of building this project just answer my questions only when i ask for help
+
