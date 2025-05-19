@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
 });
 
 
-app.use('/',SummaryRouter);
+app.use('/api/summaries',SummaryRouter);
 
 // Server listen
 connectDB().then(()=>{
